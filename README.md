@@ -26,6 +26,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## Featured Directories
 
 - **[Productivity Directory](https://productivity.directory)** - Find, Search & Review AI Productivity Tools
+- **[GroupifyAI](https://groupify.ai/)** - Your Gateway for Discovering, Comparing, and Reviewing Latest AI Tools & Courses!
 
 ## A
 
@@ -83,6 +84,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
+- **[GroupifyAI](https://groupify.ai/)** - Your Gateway for Discovering, Comparing, and Reviewing Latest AI Tools & Courses!
 
 ## I
 
